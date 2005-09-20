@@ -1,0 +1,5 @@
+This is a mirror of http://www.vim.org/scripts/script.php?script_id=1358
+
+This is a dark color scheme based on the OceanDeep by Tom Regner (so it is required to have OceanDeep too ;), you can get it from here: vimscript #368).
+I slightly modified some colors to my liking.
+I agree with Tom that "console colors /do/ suck", so this scheme will look nice (I hope ;)) only in gvim.
